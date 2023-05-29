@@ -1,6 +1,7 @@
 h1 {
  font-family: Bradley Hand, cursive;
  text-align: center;
+ color:#23395B;
 }
 
 #emptyDiv{
@@ -27,7 +28,7 @@ h1 {
 body{
   background-color: white;
   color : black;
-  font-family: Bradley Hand, cursive;
+  align-items: baseline;
 }
 
 .LINK{
@@ -43,3 +44,5 @@ body{
   color : black;
   font-family: Bradley Hand, cursive;
 }
+
+
