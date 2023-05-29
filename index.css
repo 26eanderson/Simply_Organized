@@ -1,0 +1,45 @@
+h1 {
+ font-family: Bradley Hand, cursive;
+ text-align: center;
+}
+
+#emptyDiv{
+  font-family: Bradley Hand, cursive;
+  text-align: center;
+ }
+.separator {
+  width: 100%;
+}
+.left {
+  float: left;
+  padding-right: 15px;
+}
+.right {
+  float: right;
+  padding-left: 15px;
+}
+
+#PicOfMe{
+  height: 250px;
+  width: 500px;
+}
+
+body{
+  background-color: white;
+  color : black;
+  font-family: Bradley Hand, cursive;
+}
+
+.LINK{
+  float: right;
+}
+
+.ContactInfo{
+  float: right;
+}
+
+.Nav{
+  background-color: white;
+  color : black;
+  font-family: Bradley Hand, cursive;
+}
